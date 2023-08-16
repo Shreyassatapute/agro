@@ -1,0 +1,110 @@
+body {
+    
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    margin: 0;
+}
+
+.head-flex{
+    display: flex;
+}
+.logoimg{
+    margin: 0px 70px;
+
+}
+ .contact, .mail{
+    text-decoration: underline  rgb(75, 75, 75) 0.5px;
+}
+
+ .span{
+    font-display: initial;
+    margin-top: 12px;
+    font-size: small;
+    width: 100%;
+    opacity: 0.5;
+} 
+
+ul{
+    list-style-type: none;
+    display: flex;
+    margin-top: 1px;
+    font-size: small;
+    margin-left: 180px;
+    
+}
+.a-menu span a {
+    text-decoration: none;
+    padding: 5px;
+    color: black;
+    opacity: 0.5;
+
+}
+.profile-icon{
+    margin-left: 34px;
+}
+.first-btn{
+    border-radius: 14px;
+    padding: 16px;
+}
+/* Slider css */
+.text-block h2 {
+    font-size: 70px;
+    font-weight: 200;
+}
+.text-block span {
+    font-weight: 100;
+}
+.slide-imga{
+     height: 410px;
+    width: 1240px;
+    margin-top: -90px;
+    margin-right: 1200px;
+}
+.headinga{
+    align-items:center;
+    width: 700px;
+    padding: 1px;
+    margin-top: -5%;
+    margin-left: 164px;
+    font-size: medium;
+}
+.paraa{
+    align-items: center;
+    padding: 1px;
+    margin-top: 1%;
+    margin-left: 164px;
+}
+.first-btna{
+    border-radius: 4px;
+    align-items: center;
+    margin-left: 180px;
+    margin-bottom: opx;
+}
+.slide-imgb{
+    height: 530px;
+    width: 1240px;
+    margin-top: -210px;    
+}
+.hh3{
+    align-items: center;
+    font-size: large;
+}
+.img-card{
+    margin-top: -26px;
+    margin-bottom: 4px;
+}
+.svg1{
+    margin-top: 30px;
+    margin-left: 30px;
+    height:30px;
+     width: 50px;
+     justify-content: center;
+}
+.border-right {
+    border-right: 1px solid black;
+    line-height: 34%;
+}
+
+
+
+
